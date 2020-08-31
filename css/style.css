@@ -1,0 +1,316 @@
+body {
+  width: 1440px;
+  margin: 0;
+  padding: 0;
+}
+
+.d_flex {
+  display: flex;
+}
+
+.col_gap {
+  column-gap: 5%;
+}
+
+.w_15 {
+  width: 15%;
+}
+
+.w_50 {
+  width: 50%;
+}
+
+.w_25 {
+  width: 25%;
+}
+
+.h_12 {
+  height: 12vh;
+}
+
+.just_cent {
+  justify-content: center;
+}
+
+.w_70 {
+  width: 70%;
+}
+
+.b_c1 {
+  background-color: gray;
+}
+
+.h_70 {
+  height: 70%;
+}
+
+.align_cen {
+  align-self: center;
+}
+
+.h_50 {
+  height: 50%;
+}
+
+.w_14 {
+  display: table-cell;
+  width: 100%;
+}
+
+.b_c2 {
+  background-color: rgb(87, 86, 86);
+}
+
+.b_c3 {
+  background-color: rgb(163, 159, 159);
+}
+
+.b_c4 {
+  background-color: #d4d4d4;
+}
+
+.b_radius_5 {
+  border-radius: 0.5rem;
+  border: none;
+}
+
+.d-grid {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+}
+
+.latest-art-1,
+.latest-art-2 {
+  height: 40rem;
+}
+
+.latest-art-3,
+.latest-art-4 {
+  height: 30rem;
+}
+
+.p-absolute {
+  position: absolute;
+}
+
+.top-15 {
+  top: 15%;
+}
+
+.intro {
+  left: 520px;
+  width: 400px;
+  text-align: center;
+}
+
+.seriously-red {
+  left: 1160px;
+  width: 240px;
+}
+
+.h_60 {
+  height: 60px;
+}
+
+.w_400 {
+  width: 400px;
+}
+
+.w_200 {
+  width: 200px;
+}
+
+.marg_auto {
+  margin: 0 auto;
+}
+
+.w_60 {
+  width: 60px;
+}
+
+.w_30 {
+  width: 30%;
+}
+
+.w_160 {
+  width: 160px;
+}
+
+.trans_15 {
+  transform: rotate(-15deg);
+}
+
+.trans_15:hover {
+  transform: rotate(0deg);
+  transition: 0.2s ease-in;
+  cursor: pointer;
+}
+
+.inside_cont {
+  height: 60%;
+  width: 80%;
+}
+
+.mar_clock {
+  margin: 27% auto;
+}
+
+.mar_clock2 {
+  margin: 7% auto;
+}
+
+.top_div {
+  width: 40%;
+  height: 5%;
+}
+
+.h_100 {
+  height: 100%;
+}
+
+.box {
+  height: 75px;
+  width: 75px;
+}
+
+.mar_top {
+  margin-top: 10px;
+}
+
+.mar_top-90 {
+  margin-top: 90px;
+}
+
+.title-latest-art {
+  width: 100%;
+}
+
+.title-latest-art1 {
+  width: 100%;
+}
+
+.d-inline-b {
+  display: inline-block;
+}
+
+.title-latest-art2 {
+  width: 40%;
+}
+
+.title-latest-comment {
+  width: 40%;
+  margin: 0 0 15px 30px;
+}
+
+.mar_top-5 {
+  margin-top: 5px;
+}
+
+.h_30 {
+  height: 30px;
+}
+
+.h_15 {
+  height: 15px;
+}
+
+.align_items_c {
+  align-items: center;
+}
+
+.cat12 {
+  width: 10%;
+}
+
+.cat3 {
+  width: 20%;
+}
+
+.arrow {
+  width: 10%;
+  margin-top: 10%;
+}
+
+.grid-area {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+}
+
+.h_480 {
+  height: 480px;
+}
+
+.mar_top_left {
+  margin: 10px 0 0 20px;
+}
+
+.marg_top_40 {
+  margin: 40px 0 0 20px;
+}
+
+.h_140 {
+  height: 140px;
+}
+
+.last_ar {
+  margin: 60px 0 0 20px;
+}
+
+.mar_top-40 {
+  margin-top: 40px;
+}
+
+.mar_l_r_auto {
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.mar_top-70 {
+  margin-top: 70px;
+}
+
+.mar_bottom-70 {
+  margin-bottom: 70px;
+}
+
+.h_700 {
+  height: 800px;
+}
+
+.meet-click {
+  padding-top: 50px;
+  margin-bottom: 50px;
+}
+
+.h_380 {
+  height: 380px;
+}
+
+.person-of-week {
+  padding: 50px;
+  margin-bottom: 60px;
+}
+
+.profile-img {
+  height: 180px;
+}
+
+.w_200 {
+  width: 200px;
+}
+
+.person-details {
+  padding-left: 20px;
+}
+
+.w_100_p {
+  width: 100%;
+}
+
+.pad {
+  padding: 50px 30px;
+}
+
+.h_280 {
+  height: 280px;
+}
