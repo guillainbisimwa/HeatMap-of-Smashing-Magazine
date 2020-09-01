@@ -1,6 +1,6 @@
 body {
   width: 1440px;
-  margin: 0;
+  margin: 0 auto;
   padding: 0;
 }
 
@@ -114,10 +114,6 @@ body {
 
 .w_400 {
   width: 400px;
-}
-
-.w_200 {
-  width: 200px;
 }
 
 .marg_auto {
@@ -299,6 +295,12 @@ body {
   width: 200px;
 }
 
+.bor_rad_rit {
+  border-top-right-radius: 0.5rem;
+  border-bottom-right-radius: 0.5rem;
+  border: none;
+}
+
 .person-details {
   padding-left: 20px;
 }
@@ -307,10 +309,83 @@ body {
   width: 100%;
 }
 
+.w_80_p {
+  width: 80%;
+}
+
 .pad {
   padding: 50px 30px;
 }
 
 .h_280 {
   height: 280px;
+}
+
+.trans_80 {
+  transform: rotate(80deg);
+}
+
+.mar_bottom-90 {
+  margin-bottom: 90px;
+}
+
+.h_60-p {
+  height: 70%;
+}
+
+.book {
+  padding-left: 50px;
+}
+
+.w_60-p {
+  width: 60%;
+}
+
+.w_40-p {
+  width: 20%;
+}
+
+.h_340 {
+  height: 340px;
+}
+
+.trans_80:hover {
+  transform: rotate(90deg);
+  transition: 0.2s ease-in;
+  cursor: pointer;
+}
+
+.mar_t_b_l_r {
+  margin: 40px;
+}
+
+.col_gap_less {
+  column-gap: 2%;
+}
+
+.h_830 {
+  height: 830px;
+}
+
+.bor_rad_lef {
+  border-top-left-radius: 0.5rem;
+  border-bottom-left-radius: 0.5rem;
+  border: none;
+}
+
+.h_730 {
+  height: 730px;
+}
+
+.w_90 {
+  width: 90px;
+}
+
+.space-arround {
+  justify-content: space-around;
+}
+
+.img-left,
+.img-right {
+  width: 20%;
 }
